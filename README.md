@@ -9,7 +9,7 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiaTrama)](https://github.com/ChiaTrama/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaTrama)](https://github.com/ChiaTrama/github-readme-stats)
 
-Welcome to my personal repository! Here, you’ll find projects I’m currently working on and work I’ve completed in the past.
+Welcome to my profile! Here, you’ll find projects I’m currently working on and work I’ve completed in the past.
 <br>
 
 <div align="center">
