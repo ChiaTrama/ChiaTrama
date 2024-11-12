@@ -9,7 +9,7 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiaTrama)](https://github.com/ChiaTrama/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaTrama)](https://github.com/ChiaTrama/github-readme-stats)
 
-Welcome to my profile! Here, you’ll find projects I’m currently working on and work I’ve completed in the past.
+
 <br>
 
 <div align="center">
@@ -25,8 +25,15 @@ Welcome to my profile! Here, you’ll find projects I’m currently working on a
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white alt="mySQL" />
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+
 </div>
 
 <br>
+
+Welcome to my profile! Here, you’ll find projects I’m currently working on and work I’ve completed in the past.
 
 --- 
