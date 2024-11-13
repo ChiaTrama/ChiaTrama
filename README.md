@@ -4,7 +4,7 @@
 # Hi, I'm Chiara Tramarin 👋
 
 - 🌱 I'm currently a **Master’s student in Physics of Data** at the University of Padua (UniPd).
-- 🎓 I hold a Bachelor’s degree in Physics from UniPd. My thesis was titled: ["Optical Sensing Study of Microplastics in Droplets via Refractive Index Contrast"](https://thesis.unipd.it/handle/20.500.12608/64692).
+- 🎓 I hold a Bachelor’s degree in Physics from UniPd. Thesis: ["Optical Sensing Study of Microplastics in Droplets via Refractive Index Contrast"](https://thesis.unipd.it/handle/20.500.12608/64692).
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiaTrama)](https://github.com/ChiaTrama/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaTrama)](https://github.com/ChiaTrama/github-readme-stats)
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Dask-45B8D8?style=for-the-badge&logo=dask&logoColor=white" alt="Dask" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 
 </div>
