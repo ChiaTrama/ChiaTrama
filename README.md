@@ -38,4 +38,4 @@
 Welcome to my profile! Here, you’ll find projects I’m currently working on and work I’ve completed in the past.
 
 --- 
-![](https://komarev.com/ghpvc/?username=ChiaTrama&label=PROFILE+VIEWS)
+#![](https://komarev.com/ghpvc/?username=ChiaTrama&label=PROFILE+VIEWS)
