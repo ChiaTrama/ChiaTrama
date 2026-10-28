@@ -2,13 +2,13 @@
 
 MSc graduate in Physics of Data from the University of Padua, with a background in Physics.
 
+---
+
 ## Academic Work
 
-**Master’s thesis**  
-[Investigating sequence-dependent DNA mechanics and nucleosome stability through coarse-grained simulations](https://thesis.unipd.it/handle/20.500.12608/116745)
+- 🎓 **Master’s thesis:** [*Investigating sequence-dependent DNA mechanics and nucleosome stability through coarse-grained simulations*](https://thesis.unipd.it/handle/20.500.12608/116745)
 
-**Bachelor’s thesis**  
-[Optical sensing study of microplastics in droplets via refractive index contrast](https://thesis.unipd.it/handle/20.500.12608/64692)
+- 🎓 **Bachelor’s thesis:** [*Optical sensing study of microplastics in droplets via refractive index contrast*](https://thesis.unipd.it/handle/20.500.12608/64692)
 
 ### Publication
 
@@ -16,6 +16,8 @@ G. Bragato, S. Marchetto, **C. Tramarin**, R. Zamboni, A. Zaltron and C. Sada.
 [*Optofluidic light-droplet interaction for rapidly assessing the presence of plastic microspheres within aqueous suspensions*](https://opg.optica.org/oe/fulltext.cfm?uri=oe-34-5-8175).  
 *Optics Express*, **34**(5), 8175–8194 (2026).  
 Publication arising from the experimental work of my Bachelor’s thesis.
+
+---
 
 ## Technical Skills
 
@@ -51,9 +53,12 @@ Publication arising from the experimental work of my Bachelor’s thesis.
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)
 
+---
+
 ## Connect
 
-[Email](mailto:chiara.tramarin99@gmail.com) · [LinkedIn](https://www.linkedin.com/in/chiara-tramarin-564862353/)
+📫 [chiara.tramarin99@gmail.com](mailto:chiara.tramarin99@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiara-tramarin-564862353/)
 
 ---
 
