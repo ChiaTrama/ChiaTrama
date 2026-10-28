@@ -1,8 +1,14 @@
 # Hi, I'm Chiara Tramarin 👋
 
-🎓 MSc graduate in [Physics of Data](https://pod.dfa.unipd.it/about/) from the University of Padua (October 2026), with a background in Physics.
+MSc graduate in [Physics of Data](https://pod.dfa.unipd.it/about/) from the University of Padua (October 2026), with a background in Physics.
 
 ---
+
+## About Me
+
+- 🔬 My MSc focused on statistics and inference, machine and deep learning, complex systems and networks, and scientific computing.
+- 💻 I worked on projects involving Bayesian modelling, neural networks, numerical simulations, distributed computing and GPU acceleration.
+- 🌱 I’m currently exploring opportunities in data analysis, machine learning and scientific computing.
 
 ## Academic Work
 
