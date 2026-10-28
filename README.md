@@ -1,6 +1,6 @@
 # Hi, I'm Chiara Tramarin 👋
 
-MSc graduate in [Physics of Data](https://pod.dfa.unipd.it/about/) from the University of Padua, with a background in Physics.
+🎓 MSc graduate in [Physics of Data](https://pod.dfa.unipd.it/about/) from the University of Padua (2026), with a background in Physics.
 
 ---
 
@@ -9,7 +9,7 @@ MSc graduate in [Physics of Data](https://pod.dfa.unipd.it/about/) from the Univ
 - 🎓 **Master’s thesis:** [*Investigating sequence-dependent DNA mechanics and nucleosome stability through coarse-grained simulations*](https://thesis.unipd.it/handle/20.500.12608/116745)
 
 - 🎓 **Bachelor’s thesis:** [*Optical sensing study of microplastics in droplets via refractive index contrast*](https://thesis.unipd.it/handle/20.500.12608/64692)
-  - 📄 **Related publication:** G. Bragato, S. Marchetto, **C. Tramarin**, R. Zamboni, A. Zaltron and C. Sada, [*Optofluidic light-droplet interaction for rapidly assessing the presence of plastic microspheres within aqueous suspensions*](https://opg.optica.org/oe/fulltext.cfm?uri=oe-34-5-8175), *Optics Express*, **34**(5), 8175–8194 (2026).
+  - 📄 **Related publication:** G. Bragato, S. Marchetto, **C. Tramarin**, R. Zamboni, A. Zaltron and C. Sada, [*Optofluidic light-droplet interaction for rapidly assessing the presence of plastic microspheres within aqueous suspensions*](https://opg.optica.org/oe/fulltext.cfm?uri=oe-34-5-8175), *Optics Express*, 34(5), 8175–8194 (2026).
 
 ## Technical Skills
 
@@ -21,7 +21,7 @@ MSc graduate in [Physics of Data](https://pod.dfa.unipd.it/about/) from the Univ
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
 
-### Scientific Computing & Machine Learning
+### Data Analysis & Machine Learning
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
