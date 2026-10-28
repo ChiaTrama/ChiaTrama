@@ -1,6 +1,6 @@
 # Hi, I'm Chiara Tramarin 👋
 
-MSc graduate in Physics of Data from the University of Padua, with a background in Physics.
+MSc graduate in [Physics of Data](https://pod.dfa.unipd.it/about/) from the University of Padua, with a background in Physics.
 
 ---
 
@@ -48,6 +48,9 @@ MSc graduate in Physics of Data from the University of Padua, with a background 
 ## Connect
 
 📫 [chiara.tramarin99@gmail.com](mailto:chiara.tramarin99@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiara-tramarin-564862353/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="18" alt="LinkedIn"> LinkedIn](https://www.linkedin.com/in/chiara-tramarin-564862353/)  
+📄 **CV — coming soon**
 
-Welcome to my profile! Here, you’ll find projects I’m currently working on and work I’ve completed in the past.
+### Welcome to my profile!
+
+Here, you’ll find projects I’m currently working on and work I’ve completed in the past.
