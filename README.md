@@ -57,6 +57,7 @@ MSc graduate in [Physics of Data](https://pod.dfa.unipd.it/about/) from the Univ
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="18" alt="LinkedIn"> LinkedIn](https://www.linkedin.com/in/chiara-tramarin-564862353/)  
 📄 **CV — coming soon**
 
-### Welcome to my profile!
-
-Here, you’ll find projects I’m currently working on and work I’ve completed in the past.
+<p align="center">
+  <strong>✨ Welcome to my profile! ✨</strong><br>
+  Here, you’ll find projects I’m currently working on and work I’ve completed in the past.
+</p>
