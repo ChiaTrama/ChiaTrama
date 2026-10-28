@@ -1,6 +1,6 @@
 # Hi, I'm Chiara Tramarin 👋
 
-🎓 MSc graduate in [Physics of Data](https://pod.dfa.unipd.it/about/) from the University of Padua (2026), with a background in Physics.
+🎓 MSc graduate in [Physics of Data](https://pod.dfa.unipd.it/about/) from the University of Padua (October 2026), with a background in Physics.
 
 ---
 
