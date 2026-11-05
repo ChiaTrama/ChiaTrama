@@ -6,7 +6,7 @@ MSc graduate in [Physics of Data](https://pod.dfa.unipd.it/about/) from the Univ
 
 ## About Me
 
-- 🔬 My interests lie at the intersection of physics, complex systems, data analysis, machine learning and scientific computing.
+- 🔬 My interests lie at the intersection of physics, data analysis, machine learning and scientific computing, with a particular interest in complex systems.
 - 💻 My projects span Bayesian optimization, deep learning, distributed algorithms and CPU/GPU numerical simulations.
 - 🌱 I recently completed an international research internship in molecular biophysics at IFIMAC in Madrid and am now seeking opportunities to apply these skills, take on new challenges and keep learning.
 
