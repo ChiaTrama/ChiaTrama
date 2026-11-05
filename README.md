@@ -15,7 +15,7 @@ MSc graduate in [Physics of Data](https://pod.dfa.unipd.it/about/) from the Univ
 - 🎓 **Master’s thesis:** [*Investigating sequence-dependent DNA mechanics and nucleosome stability through coarse-grained simulations*](https://thesis.unipd.it/handle/20.500.12608/116745)
 
 - 🎓 **Bachelor’s thesis:** [*Optical sensing study of microplastics in droplets via refractive index contrast*](https://thesis.unipd.it/handle/20.500.12608/64692)
-  - 📄 **Related publication:** G. Bragato, S. Marchetto, **C. Tramarin**, R. Zamboni, A. Zaltron and C. Sada, [*Optofluidic light-droplet interaction for rapidly assessing the presence of plastic microspheres within aqueous suspensions*](https://opg.optica.org/oe/fulltext.cfm?uri=oe-34-5-8175), *Optics Express*, 34(5), 8175–8194 (2026).
+  - 📄 **Related publication — *Optics Express* (2026):** [*Optofluidic light-droplet interaction for rapidly assessing the presence of plastic microspheres within aqueous suspensions*](https://doi.org/10.1364/OE.586750)
 
 ## Technical Skills
 
